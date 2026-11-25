@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1130" height="1018" viewBox="0 0 1130 1018" role="img" aria-label="VOX concept card (illustrative)">
+<rect width="1130" height="1018" fill="#fdfbf9"/>
+<g font-family="Georgia, serif" fill="#4a2f2f">
+<text x="45" y="85" font-size="46">VOX</text>
+</g>
+<g font-family="Helvetica, Arial, sans-serif" fill="#4a2f2f">
+<text x="45" y="160" font-size="18">A workspace for task assignment, review and operational visibility.</text>
+<text x="45" y="252" font-size="17" fill="#8a7070">Product concept</text>
+<text x="45" y="288" font-size="26" font-family="Georgia, serif">From activity to visibility</text>
+<text x="45" y="362" font-size="17" fill="#8a7070">Task workflow</text><text x="296" y="362" font-size="17">Assignment, review and returns</text><line x1="45" x2="1085" y1="385" y2="385" stroke="#e8e2dd"/>
+<text x="45" y="423" font-size="17" fill="#8a7070">Team coordination</text><text x="296" y="423" font-size="17">Role-based task and group views</text><line x1="45" x2="1085" y1="446" y2="446" stroke="#e8e2dd"/>
+<text x="45" y="485" font-size="17" fill="#8a7070">Traceability</text><text x="296" y="485" font-size="17">Assignment and return history</text><line x1="45" x2="1085" y1="508" y2="508" stroke="#e8e2dd"/>
+<text x="45" y="590" font-size="17" fill="#8a7070">Synthetic demonstration</text><text x="45" y="626" font-size="26" font-family="Georgia, serif">Illustrative workflow</text>
+<text x="45" y="698" font-size="17" font-weight="bold">Demo task A</text><text x="1085" y="698" font-size="17" font-weight="bold" text-anchor="end">Review</text><line x1="45" x2="1085" y1="721" y2="721" stroke="#e8e2dd"/>
+<text x="45" y="759" font-size="17" font-weight="bold">Demo task B</text><text x="1085" y="759" font-size="17" font-weight="bold" text-anchor="end">In progress</text><line x1="45" x2="1085" y1="782" y2="782" stroke="#e8e2dd"/>
+<text x="45" y="821" font-size="17" font-weight="bold">Demo task C</text><text x="1085" y="821" font-size="17" font-weight="bold" text-anchor="end">Returned</text><line x1="45" x2="1085" y1="844" y2="844" stroke="#e8e2dd"/>
+<line x1="46" x2="46" y1="907" y2="972" stroke="#d8cfc9" stroke-width="3"/><text x="65" y="927" font-size="17" font-weight="bold">Privacy-safe showcase</text><text x="65" y="962" font-size="17">Concept visual with invented task labels. Not a production screenshot. No employee, client or operational records.</text></g></svg>
